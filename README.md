@@ -24,4 +24,4 @@ These are all the tools you need to delpoy the smart contracts and interact with
 
 ## Interact with the contract via [Web3.py](https://github.com/ethereum/web3.py)
 
-- Replace lines 6-10 accordingly. You can get your account's private key from the "menu" in the MetaMask extension.
+- Replace lines 6-10 of opinion.py accordingly. You can get your account's private key from the "menu" in the MetaMask extension.
